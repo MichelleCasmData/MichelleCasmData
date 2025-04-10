@@ -1,4 +1,4 @@
-Sou formada em Gestão de Tecnologia, tenho vários cursos de extensões na área de desenvolvimento Empresarial, 
+Sou formada em Gestão de Tecnologia, com vários cursos de extensões na área de desenvolvimento Empresarial, 
 tenho bases sólidas nesse tipo de raciocínio,
 fiz transição para área de dados para aprender técnicas e ferramentas para desenvolver análises que auxiliam 
 em tomadas de decisões Empresárias . 
