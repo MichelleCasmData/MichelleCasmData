@@ -1,13 +1,11 @@
 👋🏾 Olá, eu sou Michelle Casm!
-Developer SQL| Developer PoeerBi | Analista de Projetos | Analista de Dados 
+Developer SQL| Developer PowerBi | Analista de Projetos | Analista de Dados | 
 
-Sou formada em Gestão de Tecnologia, com vários cursos de extensões na área de desenvolvimento Empresarial, 
-tenho bases sólidas nesse tipo de raciocínio,
-fiz transição para área de dados para desenvolver  técnicas e ferramentas que possibilitam desenvolver análises para auxiliarem 
-em tomadas de decisões Empresárias . 
-possuo profissionalização em Administração de Banco de dados , que me habilita a desenvolver Bancos em SQL , Excel e PowerBI 
-com elaboeação de Dashboards com KPis e Tabelas exclusivas  para as Regras de Negócios.
-Tenho 2 projetos postados e 1 em desenvolvimento .
+📖 Sou formada em Gestão de Tecnologia, com vários cursos de extensões na área de desenvolvimento Empresarial.
+🧠Tenho bases sólidas nesse tipo de raciocínio,
+🎲Fiz transição para área de dados para desenvolver  técnicas e ferramentas que possibilitam desenvolver análises para auxiliarem em tomadas de decisões Empresárias . 👩🏻‍💻Possuo profissionalização e certificações em Administração de Banco de dados , que me habilitam a desenvolver Bancos em SQL , Excel e PowerBI.
+ 🌌Produzo Dashboards com KPis e Tabelas  exclusivas  para as Regras do Negócio.
+📈Tenho 2 projetos postados e 1 em desenvolvimento .
 De uma olhada no meu trabalho e me de sujestões de como posso melhorar. 
 
 <!---
