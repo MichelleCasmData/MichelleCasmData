@@ -4,7 +4,7 @@ Developer SQL| Developer PowerBi | Analista de Projetos | Analista de Dados |
 
 📖 Sou formada em Gestão de Tecnologia, com vários cursos de extensões na área de desenvolvimento Empresarial.
 
-🧠Tenho bases sólidas nesse tipo de raciocínio,
+🧠Tenho bases sólidas nesse tipo de lógica,
 
 🎲Fiz transição para área de dados para desenvolver  técnicas e ferramentas que possibilitam desenvolver análises
  para auxiliarem em tomadas de decisões Empresárias . 
