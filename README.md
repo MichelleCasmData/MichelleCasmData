@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/MichelleCasmData/MichelleCasmData/main/assets/banner-dados-animado.gif)
 
-# 👋🏾 Olá, eu sou a Michelle Casm!
+# 👋🏾 Olá, eu sou a Michelle Mendes!
 
 🎯 **SQL Developer | Power BI Developer | Analista de Projetos | Analista de Dados**
 
