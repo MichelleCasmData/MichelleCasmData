@@ -16,6 +16,7 @@
 
 - Criação e modelagem de **bancos SQL**
 - Elaboração de relatórios em **Power BI**
+- Visões Estratégicas de Customer Succes 
 
 ---
 
