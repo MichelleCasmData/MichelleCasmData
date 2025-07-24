@@ -50,7 +50,7 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/michellecasmendes) o
 ---
 
 > 💡 *"Dados bem analisados são como mapas que guiam decisões seguras."*  
-> _— Michelle Casm_
+> _— Michelle Mendes_
 
 ---
 
